@@ -76,3 +76,19 @@ main{
     height: 50px;
     object-fit: contain;
 }
+.pvg{
+    text-align: center;
+    font-size:45px;
+    color:rgb(127, 174, 255);
+    padding: 20px;
+    margin: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+
+}
+.pvgimg{
+    width: 90px;
+    height: 50px;
+    object-fit: contain;
+
+}
